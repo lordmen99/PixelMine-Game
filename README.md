@@ -1,3 +1,5 @@
+![Screenshot_9](https://user-images.githubusercontent.com/101523940/192077066-a91bb310-07ee-44ac-942d-6874c924b86e.png)
+
 # PixelMine-Game
 PixelMine-Game is HTML5 online finance game project based on blockchain. Uses React based on Typescript for frontend.
 For Game Controller it uses XState npm module. For Web3 integration, uses web3 package in blockchain.ts file.
